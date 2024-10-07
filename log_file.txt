@@ -1,0 +1,89 @@
+commit a9596ade8ac42b146769d6c2f448a31d092ea865
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Oct 7 07:33:29 2024 -0400
+
+    Update UML.png
+
+commit 887eb5dd12d3252e71c0b5fc332359ea7ea98b3f
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Oct 7 07:25:05 2024 -0400
+
+    Add files via upload
+
+commit 15b9e69068e39b89e16277780af7d79d906ea086
+Author: Ruth Teshome <ruthteshome@Ruths-MacBook-Air.local>
+Date:   Mon Oct 7 06:56:10 2024 -0400
+
+    updated typec
+
+commit 0e654482f9def728656e8a8dc6e9e9e48d102e68
+Author: Ruth Teshome <ruthteshome@Ruths-MacBook-Air.local>
+Date:   Mon Oct 7 00:11:40 2024 -0400
+
+    updated thinglist
+
+commit a205f08c789e8ef9e09e2de25ce5e009ab0ef022
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Sun Oct 6 23:52:46 2024 -0400
+
+    Add files via upload
+
+commit acf3605d2ae3506ce3d1c3ac00040aac7926d4dd
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Sun Oct 6 23:50:12 2024 -0400
+
+    Update TypeB.java
+
+commit d6ba0a5455dba9f1f31000709c39c38dafb70cac
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Sun Oct 6 23:49:09 2024 -0400
+
+    Update TypeA.java
+
+commit bfc7450a7685d662ccc9967047bfa75e2dc817b6
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Sun Oct 6 23:48:40 2024 -0400
+
+    Update Thing.java
+
+commit 24698ae95c7aae0d537fd4595ad1de044eb53368
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:44:39 2024 -0400
+
+    Create UML.png
+
+commit 55aac418cf8e40710bfcf155c5a505d8c188d01e
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:23:37 2024 -0400
+
+    Create ThingList.java
+
+commit fa0397bd94a9a0f8396849f8451c33f9c9d29a9b
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:23:21 2024 -0400
+
+    Create TypeC.java
+
+commit c67bdfd52275db901401e027eaf71be09fd999b8
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:23:04 2024 -0400
+
+    Create TypeB.java
+
+commit e45a417d1347c3772caef28c012f5135160084fd
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:22:43 2024 -0400
+
+    Create TypeA.java
+
+commit 0e0c60dfc88604dd147d9d8724dfa4574c24dc5b
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:22:25 2024 -0400
+
+    Create Thing.java
+
+commit 18d921819188ce810823d0d83e88660cd03f20c8
+Author: ruth272 <143119920+ruth272@users.noreply.github.com>
+Date:   Mon Sep 30 14:16:58 2024 -0400
+
+    Add files via upload
